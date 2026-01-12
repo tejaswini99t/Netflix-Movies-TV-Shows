@@ -11,6 +11,8 @@ The final output is a Netflix-style content insights dashboard focused on clarit
 
 The project follows a Medallion Architecture approach:
 
+<img width="1011" height="564" alt="image" src="https://github.com/user-attachments/assets/96848f81-e03c-4780-b26a-9616ee1b8885" />
+
 #### Bronze Layer
 
 -   Ingested raw Netflix CSV data into Databricks
@@ -54,6 +56,8 @@ The project follows a Medallion Architecture approach:
 ### 📊 Dashboard Highlights
 
 The final dashboard (built using Databricks SQL Lakeview) provides:
+
+<img width="1807" height="1277" alt="image" src="https://github.com/user-attachments/assets/889d1a65-0c44-4f6b-bed2-f19bc177d16f" />
 
 #### Key Metrics
 
