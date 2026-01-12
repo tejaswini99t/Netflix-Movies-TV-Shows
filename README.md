@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **🎬 Netflix -- Content Insights Dashboard** 
 
 ## **📌 Project Overview**
